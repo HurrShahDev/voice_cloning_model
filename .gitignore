@@ -21,3 +21,5 @@ vocoder/saved_models/*
 saved_models/*
 .venv/
 .pytest_cache/
+
+venv_phase1/
